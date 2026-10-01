@@ -1,5 +1,5 @@
 #reverse the list
-
+#i sould use [::-1] to reverse the list cause scope resolution 
 numbers = [10, 20, 30, 40, 50]
 reversed_list = numbers[::-1]
 

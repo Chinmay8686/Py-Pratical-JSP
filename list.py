@@ -23,7 +23,7 @@ print("Difference between max and min elements:", diff)
 list1.insert(5, list1[3] / 3)
 print("Updated list:", list1)
 
-#different functions on the list
+#different functions on the list for the output 
 print("Length of the list:", len(list1))
 print("Sum of the list:", sum(list1))
 print("Sorted list:", sorted(list1))

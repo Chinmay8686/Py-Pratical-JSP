@@ -1,4 +1,5 @@
 #write a program to read a file and count ow many vowels are present in its content . Is this code correct ?
+
 def count_vowels_in_file(file_path):
     vowels = "aeiouAEIOU"
     count = 0
